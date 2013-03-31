@@ -1,7 +1,7 @@
-Authorizing link:https://github.com/pradeep-528/agiliq/blob/master/Authorize.html
+Authorizing link:https://github.com/pradeep-528/agiliq/blob/master/1Authorize.html
 
 
-AccessingToken link;https://github.com/pradeep-528/agiliq/blob/master/AccessToken.html
+AccessingToken link;https://github.com/pradeep-528/agiliq/blob/master/2Access_Token.html
 
 
-Multi_Upload link:https://github.com/pradeep-528/agiliq/blob/master/Multi_Upload.html
+Multi_Upload link:https://github.com/pradeep-528/agiliq/blob/master/3Multi_Upload.html
